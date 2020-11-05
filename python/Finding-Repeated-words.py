@@ -1,4 +1,4 @@
-text = open("sample.txt", "r")
+text = open("Sample.txt", "r")
 
 # Create an empty dictionary
 d = dict()
